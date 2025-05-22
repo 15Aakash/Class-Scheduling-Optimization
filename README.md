@@ -38,4 +38,4 @@ ChatGPT was used for brainstorming, content organization, and refinement under h
 - `Proposal_Paper.pdf`: Full written proposal outlining problem, methodology, implementation plan, and anticipated impact.
 
 ## Contact
-Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/aakash-kathirvel) for further discussion or collaboration.
+Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/aakash-k-382a14208/) for further discussion or collaboration.
