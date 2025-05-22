@@ -35,7 +35,7 @@ This project was developed as part of the graduate curriculum in **Decision Anal
 ChatGPT was used for brainstorming, content organization, and refinement under human oversight to enhance quality and maintain alignment with academic standards.
 
 ## File
-- `Proposal_Paper.pdf`: Full written proposal outlining problem, methodology, implementation plan, and anticipated impact.
+- `Proposal Paper.pdf`: Full written proposal outlining problem, methodology, implementation plan, and anticipated impact.
 
 ## Contact
 Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/aakash-k-382a14208/) for further discussion or collaboration.
